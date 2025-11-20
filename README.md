@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 ![mustafa-ozlu's Stats](https://github-readme-stats.vercel.app/api?username=mustafa-ozlu&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
