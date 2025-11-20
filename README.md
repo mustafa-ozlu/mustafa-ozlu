@@ -1,5 +1,6 @@
+# Merhaba! Ben Mustafa
 
-![mustafa-ozlu's Stats](https://github-readme-stats.vercel.app/api?username=mustafa-ozlu&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![Özelleştirilmiş İstatistikler](https://github-readme-stats.vercel.app/api?username=mustafa-ozlu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko)
 
 ![mustafa-ozlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ozlu&theme=merko&show_icons=true&hide_border=true&layout=compact)
 <!--
