@@ -2,7 +2,7 @@
 
 ![İstatistiklerim](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu&theme=github)
 
-![Kullandığım Diller](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu&type=languages)
+![Kullandığım Diller](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu&type=languages&theme=tokyonight)
 <!--
 **mustafa-ozlu/mustafa-ozlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
