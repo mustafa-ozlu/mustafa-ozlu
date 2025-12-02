@@ -1,6 +1,6 @@
 # Merhaba! Ben Mustafa
 
-![İstatistiklerim](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu)
+![İstatistiklerim](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu&theme=github)
 
 ![Kullandığım Diller](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu&type=languages)
 <!--
