@@ -1,8 +1,8 @@
 # Merhaba! Ben Mustafa
 
-![Özelleştirilmiş İstatistikler](https://stats.hyo.dev/api/github-stats-advanced?login=mustafa-ozlu)
+![İstatistikler](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu)
 
-![mustafa-ozlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ozlu&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![mustafa-ozlu's Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mustafa-ozlu)
 <!--
 **mustafa-ozlu/mustafa-ozlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
